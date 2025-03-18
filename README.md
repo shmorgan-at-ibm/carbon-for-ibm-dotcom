@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Carbon for IBM.com
+  Carbon for IBM.com YEAH!
 </h1>
 
 > This library is an extension of the Carbon IBM Design System. It contains
